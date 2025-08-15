@@ -13,7 +13,7 @@ Are you ready to start building? Check out the repository and let me know what y
 |Embeddings and Euclidean Distance |[Euclidean Distance Demo](EuclideanDistanceDemo.ipynb)|
 |Prompt Engineering with a structured approach | [Structured Prompting with R.I.S.E.N. framework Demo](prompting_w_RISEN_framework.ipynb)|
 |few-shot-prompting| [Few-shot prompting demo](few_shot_prompting.ipynb)|
-|Chain-Of-Thought(CoT) prompting | Coming soon...|
+|Chain-Of-Thought(CoT) prompting |[CoT Demo](CoT_prompting.ipynb) |
 <br>
 
 
