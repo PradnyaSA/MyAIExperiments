@@ -14,6 +14,8 @@ Are you ready to start building? Check out the repository and let me know what y
 |Prompt Engineering with a structured approach | [Structured Prompting with R.I.S.E.N. framework Demo](prompting_w_RISEN_framework.ipynb)|
 |few-shot-prompting| [Few-shot prompting demo](few_shot_prompting.ipynb)|
 |Chain-Of-Thought(CoT) prompting |[CoT Demo](CoT_prompting.ipynb) |
+|CoT + few-shots prompting |[ChatBot Demo](CoT_few_shot_combined_demo.ipynb) |
+|Context Engineering|Coming Soon...|
 <br>
 
 
