@@ -15,7 +15,7 @@ Are you ready to start building? Check out the repository and let me know what y
 |few-shot-prompting| [Few-shot prompting demo](few_shot_prompting.ipynb)|
 |Chain-Of-Thought(CoT) prompting |[CoT Demo](CoT_prompting.ipynb) |
 |CoT + few-shots prompting |[ChatBot Demo](CoT_few_shot_combined_demo.ipynb) |
-|Context Engineering|Coming Soon...|
+|Prompt Chaining|[Prompt Chaining Demo](PromptChaining.ipynb)|
 <br>
 
 
