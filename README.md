@@ -6,16 +6,18 @@ I've created this new repository to help you get started. It's filled with noteb
 
 Are you ready to start building? Check out the repository and let me know what you think!
 <br>
+### This week's featured hands-on exercise:
+[Prompt Chaining Demo](./hands-on-notebooks/PromptChaining.ipynb)
 
-### A Collection of notebooks focused on conceptual understanding with AI:
-| Concept| Link to a hands-on lab |
+### Reference: my Collection of notebooks focused on conceptual understanding with AI:
+| Concept| Link to a hands-on exercise |
 |:--|:--|
-|Embeddings and Euclidean Distance |[Euclidean Distance Demo](EuclideanDistanceDemo.ipynb)|
-|Prompt Engineering with a structured approach | [Structured Prompting with R.I.S.E.N. framework Demo](prompting_w_RISEN_framework.ipynb)|
-|few-shot-prompting| [Few-shot prompting demo](few_shot_prompting.ipynb)|
-|Chain-Of-Thought(CoT) prompting |[CoT Demo](CoT_prompting.ipynb) |
-|CoT + few-shots prompting |[ChatBot Demo](CoT_few_shot_combined_demo.ipynb) |
-|Prompt Chaining|[Prompt Chaining Demo](PromptChaining.ipynb)|
+|Embeddings and Euclidean Distance |[Euclidean Distance Demo](./hands-on-notebooks/EuclideanDistanceDemo.ipynb)|
+|Prompt Engineering with a structured approach | [Structured Prompting with R.I.S.E.N. framework Demo](./hands-on-notebooks/prompting_w_RISEN_framework.ipynb)|
+|few-shot-prompting| [Few-shot prompting demo](./hands-on-notebooks/few_shot_prompting.ipynb)|
+|Chain-Of-Thought(CoT) prompting |[CoT Demo](./hands-on-notebooks/CoT_prompting.ipynb) |
+|CoT + few-shots prompting |[ChatBot Demo](./hands-on-notebooks/CoT_few_shot_combined_demo.ipynb) |
+|Prompt Chaining|[Prompt Chaining Demo](./hands-on-notebooks/PromptChaining.ipynb)|
 <br>
 
 
