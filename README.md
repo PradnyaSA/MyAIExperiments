@@ -6,10 +6,11 @@ I've created this new repository to help you get started. It's filled with noteb
 
 Are you ready to start building? Check out the repository and let me know what you think!
 <br>
-### This week's featured hands-on exercise:
-[Prompt Chaining Demo](./hands-on-notebooks/PromptChaining.ipynb)
 
-### Reference: my Collection of notebooks focused on conceptual understanding with AI:
+## This week's featured topic: [Prompt Chaining](./hands-on-notebooks/PromptChaining.ipynb)
+<br>
+
+### Reference: my Collection of notebooks focused on conceptual understanding with AI: <br>
 | Concept| Link to a hands-on exercise |
 |:--|:--|
 |Embeddings and Euclidean Distance |[Euclidean Distance Demo](./hands-on-notebooks/EuclideanDistanceDemo.ipynb)|
