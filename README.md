@@ -7,7 +7,7 @@ I've created this new repository to help you get started. It's filled with noteb
 Are you ready to start building? Check out the repository and let me know what you think!
 <br>
 
-## This week's featured topic: [Prompt Chaining](./hands-on-notebooks/PromptChaining.ipynb)
+## This week's featured topic: [Document Summarization using LangChain](./hands-on-notebooks/LangChain_summerization_demo.ipynb)
 <br>
 
 ### Reference: my Collection of notebooks focused on conceptual understanding with AI: <br>
@@ -19,6 +19,7 @@ Are you ready to start building? Check out the repository and let me know what y
 |Chain-Of-Thought(CoT) prompting |[CoT Demo](./hands-on-notebooks/CoT_prompting.ipynb) |
 |CoT + few-shots prompting |[ChatBot Demo](./hands-on-notebooks/CoT_few_shot_combined_demo.ipynb) |
 |Prompt Chaining|[Prompt Chaining Demo](./hands-on-notebooks/PromptChaining.ipynb)|
+|Document Summarization using LangChain|[Document Summarization Demo](./hands-on-notebooks/LangChain_summerization_demo.ipynb)|
 <br>
 
 
