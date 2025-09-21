@@ -1,0 +1,79 @@
+.transactions-table-container {
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+.transactions-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.transactions-table th,
+.transactions-table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.transactions-table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+  color: #333;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0.5px;
+}
+
+.transactions-table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+.transactions-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.amount {
+  font-weight: 600;
+  color: #e74c3c;
+  text-align: right;
+}
+
+.category-badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.category-grocery { background-color: #e8f5e8; color: #2e7d32; }
+.category-gas-and-fuel { background-color: #fff3e0; color: #f57c00; }
+.category-department-store { background-color: #f3e5f5; color: #7b1fa2; }
+.category-fast-food { background-color: #ffebee; color: #c62828; }
+.category-online-retail { background-color: #e3f2fd; color: #1565c0; }
+.category-coffee-shop { background-color: #f1f8e9; color: #558b2f; }
+.category-home-improvement { background-color: #fff8e1; color: #f9a825; }
+.category-wholesale-club { background-color: #fce4ec; color: #ad1457; }
+.category-entertainment { background-color: #e8eaf6; color: #3f51b5; }
+.category-pharmacy { background-color: #e0f2f1; color: #00695c; }
+.category-transportation { background-color: #fff3e0; color: #ef6c00; }
+.category-electronics { background-color: #e1f5fe; color: #0277bd; }
+.category-restaurant { background-color: #f9fbe7; color: #689f38; }
+.category-health-and-fitness { background-color: #fce4ec; color: #c2185b; }
+
+@media (max-width: 768px) {
+  .transactions-table {
+    font-size: 0.875rem;
+  }
+
+  .transactions-table th,
+  .transactions-table td {
+    padding: 8px 12px;
+  }
+}

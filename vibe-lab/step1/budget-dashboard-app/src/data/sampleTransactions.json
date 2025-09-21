@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-15",
+    "description": "Walmart Supercenter",
+    "amount": 134.09,
+    "category": "Grocery",
+    "mcc": "5411"
+  },
+  {
+    "id": 2,
+    "date": "2024-01-16",
+    "description": "Shell Gas Station",
+    "amount": 45.30,
+    "category": "Gas & Fuel",
+    "mcc": "5541"
+  },
+  {
+    "id": 3,
+    "date": "2024-01-17",
+    "description": "Target Store",
+    "amount": 89.95,
+    "category": "Department Store",
+    "mcc": "5311"
+  },
+  {
+    "id": 4,
+    "date": "2024-01-18",
+    "description": "McDonald's",
+    "amount": 12.45,
+    "category": "Fast Food",
+    "mcc": "5814"
+  },
+  {
+    "id": 5,
+    "date": "2024-01-19",
+    "description": "Amazon Online",
+    "amount": 76.50,
+    "category": "Online Retail",
+    "mcc": "4900"
+  },
+  {
+    "id": 6,
+    "date": "2024-01-20",
+    "description": "Starbucks Coffee",
+    "amount": 8.75,
+    "category": "Coffee Shop",
+    "mcc": "5814"
+  },
+  {
+    "id": 7,
+    "date": "2024-01-21",
+    "description": "Home Depot",
+    "amount": 156.78,
+    "category": "Home Improvement",
+    "mcc": "5211"
+  },
+  {
+    "id": 8,
+    "date": "2024-01-22",
+    "description": "Costco Wholesale",
+    "amount": 234.50,
+    "category": "Wholesale Club",
+    "mcc": "5300"
+  },
+  {
+    "id": 9,
+    "date": "2024-01-23",
+    "description": "Netflix Subscription",
+    "amount": 15.99,
+    "category": "Entertainment",
+    "mcc": "7832"
+  },
+  {
+    "id": 10,
+    "date": "2024-01-24",
+    "description": "CVS Pharmacy",
+    "amount": 23.67,
+    "category": "Pharmacy",
+    "mcc": "5912"
+  },
+  {
+    "id": 11,
+    "date": "2024-01-25",
+    "description": "Uber Ride",
+    "amount": 18.40,
+    "category": "Transportation",
+    "mcc": "4121"
+  },
+  {
+    "id": 12,
+    "date": "2024-01-26",
+    "description": "Best Buy Electronics",
+    "amount": 299.99,
+    "category": "Electronics",
+    "mcc": "5732"
+  },
+  {
+    "id": 13,
+    "date": "2024-01-27",
+    "description": "Olive Garden",
+    "amount": 42.85,
+    "category": "Restaurant",
+    "mcc": "5812"
+  },
+  {
+    "id": 14,
+    "date": "2024-01-28",
+    "description": "Kroger Grocery",
+    "amount": 98.32,
+    "category": "Grocery",
+    "mcc": "5411"
+  },
+  {
+    "id": 15,
+    "date": "2024-01-29",
+    "description": "Chevron Gas",
+    "amount": 52.10,
+    "category": "Gas & Fuel",
+    "mcc": "5541"
+  },
+  {
+    "id": 16,
+    "date": "2024-01-30",
+    "description": "Macy's Department Store",
+    "amount": 127.60,
+    "category": "Department Store",
+    "mcc": "5311"
+  },
+  {
+    "id": 17,
+    "date": "2024-01-31",
+    "description": "Planet Fitness",
+    "amount": 29.99,
+    "category": "Health & Fitness",
+    "mcc": "7997"
+  },
+  {
+    "id": 18,
+    "date": "2024-02-01",
+    "description": "Spotify Premium",
+    "amount": 9.99,
+    "category": "Entertainment",
+    "mcc": "7832"
+  },
+  {
+    "id": 19,
+    "date": "2024-02-02",
+    "description": "Walgreens Pharmacy",
+    "amount": 34.78,
+    "category": "Pharmacy",
+    "mcc": "5912"
+  },
+  {
+    "id": 20,
+    "date": "2024-02-03",
+    "description": "Chipotle Mexican Grill",
+    "amount": 11.95,
+    "category": "Fast Food",
+    "mcc": "5814"
+  }
+]
