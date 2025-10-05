@@ -19,13 +19,20 @@
   border-bottom: 1px solid #e0e0e0;
 }
 
-.transactions-table th {
+.transactions-table thead th {
   background-color: #f8f9fa;
   font-weight: 600;
   color: #333;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 0.5px;
+}
+
+/* Style row header cells similarly to data cells, but keep emphasis */
+.transactions-table tbody th[scope="row"] {
+  background: transparent;
+  text-transform: none;
+  font-weight: 600;
 }
 
 .transactions-table tbody tr:hover {

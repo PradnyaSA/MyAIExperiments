@@ -1,5 +1,8 @@
 # Budget Dashboard App
 
+[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
+<!-- Replace OWNER/REPO above with your GitHub org/repo slug to enable the badge. -->
+
 A React web application for tracking and managing budget expenses based on credit card transactions.
 
 ## Features

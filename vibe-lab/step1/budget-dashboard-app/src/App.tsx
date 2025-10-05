@@ -45,27 +45,31 @@ function App() {
   return (
     <div className="App">
       <div className="container">
+        <a href="#main-content" className="skip-link">Skip to main content</a>
         <header className="App-header">
           <h1>Budget Dashboard</h1>
           <p>Track your expenses and manage your budget</p>
         </header>
 
-        <main>
-          <section className="section">
-            <h2>Recent Transactions</h2>
-            <TransactionsTable transactions={transactions} />
+        <main id="main-content">
+          <section className="section" aria-labelledby="recent-transactions-heading">
+            <h2 id="recent-transactions-heading">Recent Transactions</h2>
+            <TransactionsTable
+              transactions={transactions}
+              caption="Recent transactions"
+            />
           </section>
 
-          <section className="section">
-            <h2>Budget Settings</h2>
+          <section className="section" aria-labelledby="budget-settings-heading">
+            <h2 id="budget-settings-heading">Budget Settings</h2>
             <BudgetSettings
               budgets={budgets}
               onUpdateBudget={updateBudget}
             />
           </section>
 
-          <section className="section">
-            <h2>Spending Analysis</h2>
+          <section className="section" aria-labelledby="spending-analysis-heading">
+            <h2 id="spending-analysis-heading">Spending Analysis</h2>
             <Charts
               transactions={transactions}
               budgets={budgets}
