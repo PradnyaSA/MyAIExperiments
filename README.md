@@ -7,7 +7,7 @@ I've created this new repository to help you get started. It's filled with noteb
 Are you ready to start building? Check out the repository and let me know what you think!
 <br>
 
-## This week's featured topic: [Document Summarization using LangChain](./hands-on-notebooks/LangChain_summerization_demo.ipynb)
+## This week's featured topic: [Marketing Insights Generator using Agentic AI](./hands-on-notebooks/agentic_flow_demo.ipynb)
 <br>
 
 ### Reference: my Collection of notebooks focused on conceptual understanding with AI: <br>
@@ -20,6 +20,7 @@ Are you ready to start building? Check out the repository and let me know what y
 |CoT + few-shots prompting |[ChatBot Demo](./hands-on-notebooks/CoT_few_shot_combined_demo.ipynb) |
 |Prompt Chaining|[Prompt Chaining Demo](./hands-on-notebooks/PromptChaining.ipynb)|
 |Document Summarization using LangChain|[Document Summarization Demo](./hands-on-notebooks/LangChain_summerization_demo.ipynb)|
+|Agentic AI Demo|[Marketing Insights Generator using Agentic AI](./hands-on-notebooks/agentic_flow_demo.ipynb)|
 <br>
 
 
