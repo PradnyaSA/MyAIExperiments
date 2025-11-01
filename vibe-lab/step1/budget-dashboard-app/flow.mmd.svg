@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3308" height="4144" viewBox="0 0 3308 4144" font-family="Inter, system-ui, sans-serif">
+  <defs>
+        <marker id="arrow-end" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto" markerUnits="strokeWidth">
+            <path d="M1,1 L6,4 L1,7 z" fill="context-stroke" />
+        </marker>
+        <marker id="arrow-start" markerWidth="8" markerHeight="8" refX="2" refY="4" orient="auto" markerUnits="strokeWidth">
+            <path d="M7,1 L2,4 L7,7 z" fill="context-stroke" />
+        </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white" />
+  <g class="subgraph" data-id="Types">
+    <rect x="2232.0" y="80.0" width="556.0" height="192.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
+    <text x="2252.0" y="100.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">&quot; TypeScript Interfaces &quot;</text>
+  </g>
+  <g class="subgraph" data-id="DataFlow">
+    <rect x="2832.0" y="80.0" width="396.0" height="192.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
+    <text x="2852.0" y="100.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">&quot; Data Flow Summary &quot;</text>
+  </g>
+  <polyline points="173.7,224.0 450.0,574.0 790.0,614.0 1130.0,654.0 1471.2,384.6" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="384.0" x2="1510.0" y2="483.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="544.0" x2="1510.0" y2="643.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="704.0" x2="1510.0" y2="803.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1472.4" y="729.5" width="75.2" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1510.0" y="743.5" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">useState</text>
+  </g>
+  <polyline points="1489.0,695.0 1310.0,874.0 1310.0,1074.0 1310.0,1274.0 1479.3,1443.3" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1272.4" y="1060.0" width="75.2" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1310.0" y="1074.0" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">useState</text>
+  </g>
+  <line x1="1510.0" y1="864.0" x2="1510.0" y2="963.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="1024.0" x2="1510.0" y2="1123.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="1184.0" x2="1510.0" y2="1283.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="1344.0" x2="1510.0" y2="1443.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="1504.0" x2="1510.0" y2="1603.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1480.0" y1="1664.0" x2="1380.7" y2="1763.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="1664.0" x2="1510.0" y2="1763.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1540.0" y1="1664.0" x2="1639.3" y2="1763.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1350.0" y1="1824.0" x2="1350.0" y2="1923.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1350.0" y1="1984.0" x2="1350.0" y2="2083.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1350.0" y1="2144.0" x2="1350.0" y2="2243.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="1824.0" x2="1510.0" y2="1923.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="1984.0" x2="1510.0" y2="2083.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="2144.0" x2="1510.0" y2="2243.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1489.0" y1="2295.0" x2="1380.7" y2="2403.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1416.9" y="2325.1" width="36.0" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1434.9" y="2339.1" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">No</text>
+  </g>
+  <line x1="1510.0" y1="2304.0" x2="1510.0" y2="2403.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1490.9" y="2329.5" width="38.2" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1510.0" y="2343.5" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Yes</text>
+  </g>
+  <line x1="1480.0" y1="2464.0" x2="1380.7" y2="2563.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1365.0" y1="2624.0" x2="1417.2" y2="2728.4" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1430.0" y1="2784.0" x2="1430.0" y2="2883.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1399.8" y="2809.5" width="60.4" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1430.0" y="2823.5" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Cancel</text>
+  </g>
+  <line x1="1451.0" y1="2775.0" x2="1568.3" y2="2892.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1486.8" y="2809.6" width="45.6" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1509.6" y="2823.6" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Save</text>
+  </g>
+  <line x1="1562.6" y1="2932.3" x2="1395.8" y2="3043.4" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1445.3" y="2963.9" width="67.8" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1479.2" y="2977.9" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Invalid</text>
+  </g>
+  <line x1="1350.0" y1="3044.0" x2="1350.0" y2="2625.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1577.6" y1="2938.7" x2="1525.4" y2="3043.1" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1525.0" y="2966.9" width="53.0" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1551.5" y="2980.9" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Valid</text>
+  </g>
+  <line x1="1480.0" y1="3104.0" x2="1380.7" y2="3203.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1290.0" y1="3264.0" x2="1090.9" y2="3363.6" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1475.0" y1="2944.0" x2="1624.2" y2="3043.4" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1670.0" y1="1824.0" x2="1670.0" y2="1923.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1670.0" y1="1984.0" x2="1670.0" y2="2083.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1670.0" y1="2144.0" x2="1670.0" y2="2243.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1670.0" y1="2304.0" x2="1670.0" y2="2403.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1640.0" y1="2464.0" x2="1540.7" y2="2563.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1670.0" y1="2464.0" x2="1670.0" y2="2563.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1525.0" y1="2624.0" x2="1574.6" y2="2723.1" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1655.0" y1="2624.0" x2="1605.4" y2="2723.1" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="1045.0,3424.0 1110.0,3554.0 1230.0,3594.0 1350.0,3634.0 1449.1,3584.4" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="3584.0" x2="1510.0" y2="3683.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="3744.0" x2="1510.0" y2="3843.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="3904.0" x2="1510.0" y2="4003.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1515.0" y1="4004.0" x2="1664.8" y2="3105.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1640.0" y1="3104.0" x2="1540.7" y2="3203.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="1280.0,2274.0 1186.0,2274.0 1186.0,3234.0 1186.0,3178.0 1510.0,3178.0 1510.0,3203.0" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="1611.4,2784.0 1690.0,2894.0 1670.0,3014.0 1766.0,3014.0 1766.0,3134.0 1650.0,3134.0 1552.8,3203.4" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1450.0" y1="3264.0" x2="1250.9" y2="3363.6" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1480.0" y1="3264.0" x2="1380.7" y2="3363.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1510.0" y1="3264.0" x2="1510.0" y2="3363.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1540.0" y1="3264.0" x2="1639.3" y2="3363.3" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1570.0" y1="3264.0" x2="1769.1" y2="3363.6" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="1350.0,2404.0 1350.0,2378.0 1834.0,2378.0 1834.0,3234.0 1741.0,3234.0" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="1670.0" y1="3104.0" x2="1670.0" y2="3203.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="1740.0,3234.0 1834.0,3234.0 1834.0,2218.0 1510.0,2218.0 1510.0,2243.0" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1814.9" y="2204.0" width="38.2" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1834.0" y="2218.0" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Yes</text>
+  </g>
+  <line x1="1702.3" y1="3250.2" x2="1929.1" y2="3363.6" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="1797.7" y="3282.9" width="36.0" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1815.7" y="3296.9" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">No</text>
+  </g>
+  <rect x="1440.0" y="324.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="346.0" dominant-baseline="middle">Load sampleTransactions.json</tspan>
+    <tspan x="1510.0" y="362.0" dominant-baseline="middle">20 transaction records</tspan>
+  </text>
+  <rect x="1440.0" y="1444.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="1474.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">budgets: Budget[]</text>
+  <rect x="1040.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1110.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef endStyle fill:#ffe1e1,stroke:#db4a4a,stroke-width:2px</text>
+  <rect x="2280.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2350.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">direction LR</text>
+  <rect x="1680.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1750.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class ChartData,Aggregate,UseMemo1,NewChartData dataStyle</text>
+  <rect x="2880.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2950.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">&quot;JSON → useState → Props → useMemo → Charts&quot;</text>
+  <rect x="1920.0" y="3364.0" width="140.0" height="60.0" rx="30" ry="30" fill="#c4f1f9" stroke="#2d3748" stroke-width="2" />
+  <text x="1990.0" y="3394.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Session End</text>
+  <rect x="1600.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="3386.0" dominant-baseline="middle">Keyboard Navigation</tspan>
+    <tspan x="1670.0" y="3402.0" dominant-baseline="middle">full keyboard support</tspan>
+  </text>
+  <rect x="1840.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1910.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class A11y,Feature1,Feature2,Feature3,Feature4,Feature5,AriaLive a11yStyle</text>
+  <rect x="1200.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1270.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class Start,LoadJSON,AppInit initStyle</text>
+  <rect x="3040.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="3110.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">&quot;User Edit → updateBudget → setState → Re-render → Charts&quot;</text>
+  <rect x="1280.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1350.0" y="2586.0" dominant-baseline="middle">Show input field</tspan>
+    <tspan x="1350.0" y="2602.0" dominant-baseline="middle">with current budget</tspan>
+  </text>
+  <rect x="1280.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="1954.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Props: transactions</text>
+  <rect x="1440.0" y="1604.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="1634.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Render UI Components</text>
+  <rect x="240.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="310.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef initStyle fill:#e1f5e1,stroke:#4a9d4a,stroke-width:2px</text>
+  <rect x="1360.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1430.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class StateInit,TransState,BudgetState,UpdateBudgets,Rerender stateStyle</text>
+  <rect x="1600.0" y="2244.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="2266.0" dominant-baseline="middle">Aggregate transaction amounts</tspan>
+    <tspan x="1670.0" y="2282.0" dominant-baseline="middle">by category</tspan>
+  </text>
+  <rect x="1280.0" y="3204.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1350.0" y="3226.0" dominant-baseline="middle">Update budgets state</tspan>
+    <tspan x="1350.0" y="3242.0" dominant-baseline="middle">in App.tsx</tspan>
+  </text>
+  <polygon points="1670.0,3204.0 1740.0,3234.0 1670.0,3264.0 1600.0,3234.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" y="3234.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User continues?</text>
+  <rect x="2440.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="2510.0" y="138.0" dominant-baseline="middle">&quot;Transaction {</tspan>
+    <tspan x="2510.0" y="154.0" dominant-baseline="middle">  id: number</tspan>
+    <tspan x="2510.0" y="170.0" dominant-baseline="middle">  date: string</tspan>
+    <tspan x="2510.0" y="186.0" dominant-baseline="middle">  description: string</tspan>
+    <tspan x="2510.0" y="202.0" dominant-baseline="middle">  amount: number</tspan>
+    <tspan x="2510.0" y="218.0" dominant-baseline="middle">  category: string</tspan>
+    <tspan x="2510.0" y="234.0" dominant-baseline="middle">  mcc: string</tspan>
+    <tspan x="2510.0" y="250.0" dominant-baseline="middle">}&quot;</tspan>
+  </text>
+  <rect x="1440.0" y="1764.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="1794.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">BudgetSettings</text>
+  <polygon points="1510.0,644.0 1580.0,674.0 1510.0,704.0 1440.0,674.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="674.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Initialize State</text>
+  <rect x="1440.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Edit Mode</text>
+  <rect x="1120.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1190.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1190.0" y="3386.0" dominant-baseline="middle">Semantic HTML</tspan>
+    <tspan x="1190.0" y="3402.0" dominant-baseline="middle">table, figure, landmarks</tspan>
+  </text>
+  <polygon points="1590.0,2884.0 1660.0,2914.0 1590.0,2944.0 1520.0,2914.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1590.0" y="2914.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Validate input?</text>
+  <rect x="1440.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="3066.0" dominant-baseline="middle">Call updateBudget</tspan>
+    <tspan x="1510.0" y="3082.0" dominant-baseline="middle">with new amount</tspan>
+  </text>
+  <rect x="1360.0" y="2884.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1430.0" y="2914.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Restore original value</text>
+  <polygon points="1510.0,2244.0 1580.0,2274.0 1510.0,2304.0 1440.0,2274.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="2274.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User clicks Edit?</text>
+  <rect x="1600.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="2578.0" dominant-baseline="middle">Pie Chart:</tspan>
+    <tspan x="1670.0" y="2594.0" dominant-baseline="middle">Spending Distribution</tspan>
+    <tspan x="1670.0" y="2610.0" dominant-baseline="middle">by Category</tspan>
+  </text>
+  <rect x="720.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="790.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef dataStyle fill:#f0e1ff,stroke:#9d4adb,stroke-width:2px</text>
+  <rect x="1280.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Idle State</text>
+  <rect x="1440.0" y="3844.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="3866.0" dominant-baseline="middle">Update Bar Chart</tspan>
+    <tspan x="1510.0" y="3882.0" dominant-baseline="middle">with new percentages</tspan>
+  </text>
+  <rect x="1440.0" y="804.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="834.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">transactions: Transaction[]</text>
+  <rect x="2600.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="2670.0" y="170.0" dominant-baseline="middle">&quot;Budget {</tspan>
+    <tspan x="2670.0" y="186.0" dominant-baseline="middle">  category: string</tspan>
+    <tspan x="2670.0" y="202.0" dominant-baseline="middle">  budgetAmount: number</tspan>
+    <tspan x="2670.0" y="218.0" dominant-baseline="middle">}&quot;</tspan>
+  </text>
+  <rect x="1440.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="1938.0" dominant-baseline="middle">Props:</tspan>
+    <tspan x="1510.0" y="1954.0" dominant-baseline="middle">• budgets</tspan>
+    <tspan x="1510.0" y="1970.0" dominant-baseline="middle">• updateBudget callback</tspan>
+  </text>
+  <rect x="1280.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="2114.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Render Table Rows</text>
+  <rect x="1600.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="2106.0" dominant-baseline="middle">useMemo: Calculate</tspan>
+    <tspan x="1670.0" y="2122.0" dominant-baseline="middle">spending by category</tspan>
+  </text>
+  <rect x="1440.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="2106.0" dominant-baseline="middle">Render Budget Cards</tspan>
+    <tspan x="1510.0" y="2122.0" dominant-baseline="middle">Grid Layout</tspan>
+  </text>
+  <rect x="1440.0" y="3524.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="3554.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Re-calculate Chart Data</text>
+  <rect x="1600.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" y="1954.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Props: transactions, budgets</text>
+  <rect x="1440.0" y="3684.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="3706.0" dominant-baseline="middle">useMemo re-runs</tspan>
+    <tspan x="1510.0" y="3722.0" dominant-baseline="middle">with new budgets</tspan>
+  </text>
+  <rect x="1520.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1590.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class Table,Settings,Charts,TableRender,BudgetCards,BarChart,PieChart compStyle</text>
+  <rect x="1440.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="2578.0" dominant-baseline="middle">Bar Chart:</tspan>
+    <tspan x="1510.0" y="2594.0" dominant-baseline="middle">Budget vs Actual</tspan>
+    <tspan x="1510.0" y="2610.0" dominant-baseline="middle">+ Percentage Indicator</tspan>
+  </text>
+  <rect x="560.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="630.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef compStyle fill:#fff4e1,stroke:#d9a84a,stroke-width:2px</text>
+  <rect x="2000.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2070.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class End endStyle</text>
+  <rect x="1280.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1350.0" y="3386.0" dominant-baseline="middle">ARIA Labels</tspan>
+    <tspan x="1350.0" y="3402.0" dominant-baseline="middle">on all interactions</tspan>
+  </text>
+  <rect x="1440.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="3386.0" dominant-baseline="middle">Screen Reader Support</tspan>
+    <tspan x="1510.0" y="3402.0" dominant-baseline="middle">hidden data tables</tspan>
+  </text>
+  <rect x="1600.0" y="1764.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" y="1794.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Charts</text>
+  <rect x="1440.0" y="1124.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="1154.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Extract unique categories</text>
+  <rect x="1280.0" y="1764.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="1794.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">TransactionsTable</text>
+  <rect x="1440.0" y="4004.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="4026.0" dominant-baseline="middle">Announce update</tspan>
+    <tspan x="1510.0" y="4042.0" dominant-baseline="middle">via aria-live region</tspan>
+  </text>
+  <rect x="880.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="950.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef a11yStyle fill:#ffe1f0,stroke:#db4a9d,stroke-width:2px</text>
+  <rect x="1600.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="3066.0" dominant-baseline="middle">Return focus</tspan>
+    <tspan x="1670.0" y="3082.0" dominant-baseline="middle">to Edit button</tspan>
+  </text>
+  <rect x="1280.0" y="2244.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1350.0" y="2242.0" dominant-baseline="middle">Format:</tspan>
+    <tspan x="1350.0" y="2258.0" dominant-baseline="middle">• Date formatting</tspan>
+    <tspan x="1350.0" y="2274.0" dominant-baseline="middle">• Currency formatting</tspan>
+    <tspan x="1350.0" y="2290.0" dominant-baseline="middle">• Category badges</tspan>
+    <tspan x="1350.0" y="2306.0" dominant-baseline="middle">• Hide MCC codes</tspan>
+  </text>
+  <rect x="1440.0" y="1284.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="1306.0" dominant-baseline="middle">Initialize budgets</tspan>
+    <tspan x="1510.0" y="1322.0" dominant-baseline="middle">$500 per category</tspan>
+  </text>
+  <rect x="1280.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="3074.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Show error message</text>
+  <rect x="1760.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1830.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1830.0" y="3386.0" dominant-baseline="middle">Skip Links</tspan>
+    <tspan x="1830.0" y="3402.0" dominant-baseline="middle">skip to main content</tspan>
+  </text>
+  <rect x="1520.0" y="2724.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1590.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1590.0" y="2746.0" dominant-baseline="middle">Custom Tooltips</tspan>
+    <tspan x="1590.0" y="2762.0" dominant-baseline="middle">Currency Formatting</tspan>
+  </text>
+  <rect x="1440.0" y="484.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="514.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">App.tsx Initialization</text>
+  <rect x="80.0" y="164.0" width="140.0" height="60.0" rx="30" ry="30" fill="#c4f1f9" stroke="#2d3748" stroke-width="2" />
+  <text x="150.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Application Start</text>
+  <rect x="1600.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Chart Data Structure</text>
+  <rect x="1440.0" y="3204.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="3234.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Accessibility Features</text>
+  <rect x="400.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="470.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef stateStyle fill:#e1f0ff,stroke:#4a7fbf,stroke-width:2px</text>
+  <polygon points="1430.0,2724.0 1500.0,2754.0 1430.0,2784.0 1360.0,2754.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1430.0" y="2754.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User action?</text>
+  <rect x="960.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1030.0" y="3394.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Trigger re-render</text>
+  <rect x="1440.0" y="964.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="986.0" dominant-baseline="middle">Load 20 transactions</tspan>
+    <tspan x="1510.0" y="1002.0" dominant-baseline="middle">with categories from MCC</tspan>
+  </text>
+</svg>

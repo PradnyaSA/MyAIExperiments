@@ -1,0 +1,19 @@
+graph TD
+    subgraph "Data"
+        A[sampleTransactions.json]
+    end
+
+    subgraph "Application Logic"
+        B(App.tsx)
+    end
+
+    subgraph "UI Components"
+        C[TransactionsTable.tsx]
+        D[BudgetSettings.tsx]
+        E[Charts.tsx]
+    end
+
+    A -- Loads data --> B
+    B -- Manages state and passes props --> C
+    B -- Manages state and passes props --> D
+    B -- Manages state and passes props --> E

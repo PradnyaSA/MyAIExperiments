@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1668" height="710" viewBox="0 0 1668 710" font-family="Inter, system-ui, sans-serif">
+  <defs>
+        <marker id="arrow-end" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto" markerUnits="strokeWidth">
+            <path d="M1,1 L6,4 L1,7 z" fill="context-stroke" />
+        </marker>
+        <marker id="arrow-start" markerWidth="8" markerHeight="8" refX="2" refY="4" orient="auto" markerUnits="strokeWidth">
+            <path d="M7,1 L2,4 L7,7 z" fill="context-stroke" />
+        </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white" />
+  <g class="subgraph" data-id="Data">
+    <rect x="472.0" y="216.0" width="236.0" height="192.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
+    <text x="492.0" y="236.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">Data</text>
+  </g>
+  <g class="subgraph" data-id="Application_Logic">
+    <rect x="752.0" y="376.0" width="236.0" height="192.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
+    <text x="772.0" y="396.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">Application Logic</text>
+  </g>
+  <g class="subgraph" data-id="UI_Components">
+    <rect x="1032.0" y="376.0" width="556.0" height="192.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
+    <text x="1052.0" y="396.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">UI Components</text>
+  </g>
+  <polyline points="169.1,360.0 290.0,550.0 470.0,590.0 650.0,630.0 822.0,520.5" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="380.0" y1="343.3" x2="1079.0" y2="476.5" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="351.4,300.0 600.0,120.0 850.0,160.0 1100.0,200.0 1287.7,459.2" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="349.6,300.0 640.0,80.0 930.0,120.0 1220.0,160.0 1446.7,459.2" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <rect x="800.0" y="460.0" width="140.0" height="60.0" rx="30" ry="30" fill="#c4f1f9" stroke="#2d3748" stroke-width="2" />
+  <text x="870.0" y="490.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">App.tsx</text>
+  <rect x="1400.0" y="460.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1470.0" y="490.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Charts.tsx</text>
+  <rect x="80.0" y="300.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="150.0" y="330.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">A -- Loads data</text>
+  <rect x="1240.0" y="460.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1310.0" y="490.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">BudgetSettings.tsx</text>
+  <rect x="240.0" y="300.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="310.0" y="330.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">B -- Manages state and passes props</text>
+  <rect x="1080.0" y="460.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1150.0" y="490.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">TransactionsTable.tsx</text>
+  <rect x="520.0" y="300.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="590.0" y="330.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">sampleTransactions.json</text>
+</svg>
