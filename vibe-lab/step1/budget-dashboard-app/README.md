@@ -130,7 +130,7 @@ graph TB
     Start([Application Start]) --> LoadJSON[Load sampleTransactions.json<br/>20 transaction records]
     LoadJSON --> AppInit[App.tsx Initialization]
 
-    AppInit --> StateInit{Initialize State}
+    AppInit --> StateInit[Initialize State]
     StateInit -->|useState| TransState[transactions: Transaction[]]
     StateInit -->|useState| BudgetState[budgets: Budget[]]
 
@@ -233,4 +233,5 @@ graph TB
         Flow["JSON → useState → Props → useMemo → Charts"]
         Update["User Edit → updateBudget → setState → Re-render → Charts"]
     end
+
 ```

@@ -113,59 +113,17 @@
     <rect x="1797.7" y="3282.9" width="36.0" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
     <text x="1815.7" y="3296.9" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">No</text>
   </g>
-  <rect x="1440.0" y="324.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="346.0" dominant-baseline="middle">Load sampleTransactions.json</tspan>
-    <tspan x="1510.0" y="362.0" dominant-baseline="middle">20 transaction records</tspan>
-  </text>
-  <rect x="1440.0" y="1444.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="1474.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">budgets: Budget[]</text>
-  <rect x="1040.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1110.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef endStyle fill:#ffe1e1,stroke:#db4a4a,stroke-width:2px</text>
-  <rect x="2280.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="2350.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">direction LR</text>
-  <rect x="1680.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1750.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class ChartData,Aggregate,UseMemo1,NewChartData dataStyle</text>
-  <rect x="2880.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="2950.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">&quot;JSON → useState → Props → useMemo → Charts&quot;</text>
-  <rect x="1920.0" y="3364.0" width="140.0" height="60.0" rx="30" ry="30" fill="#c4f1f9" stroke="#2d3748" stroke-width="2" />
-  <text x="1990.0" y="3394.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Session End</text>
-  <rect x="1600.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <rect x="1440.0" y="3524.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="3554.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Re-calculate Chart Data</text>
+  <rect x="80.0" y="164.0" width="140.0" height="60.0" rx="30" ry="30" fill="#c4f1f9" stroke="#2d3748" stroke-width="2" />
+  <text x="150.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Application Start</text>
+  <rect x="1280.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Idle State</text>
+  <rect x="1600.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1670.0" y="3386.0" dominant-baseline="middle">Keyboard Navigation</tspan>
-    <tspan x="1670.0" y="3402.0" dominant-baseline="middle">full keyboard support</tspan>
+    <tspan x="1670.0" y="2106.0" dominant-baseline="middle">useMemo: Calculate</tspan>
+    <tspan x="1670.0" y="2122.0" dominant-baseline="middle">spending by category</tspan>
   </text>
-  <rect x="1840.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1910.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class A11y,Feature1,Feature2,Feature3,Feature4,Feature5,AriaLive a11yStyle</text>
-  <rect x="1200.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1270.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class Start,LoadJSON,AppInit initStyle</text>
-  <rect x="3040.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="3110.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">&quot;User Edit → updateBudget → setState → Re-render → Charts&quot;</text>
-  <rect x="1280.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1350.0" y="2586.0" dominant-baseline="middle">Show input field</tspan>
-    <tspan x="1350.0" y="2602.0" dominant-baseline="middle">with current budget</tspan>
-  </text>
-  <rect x="1280.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1350.0" y="1954.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Props: transactions</text>
-  <rect x="1440.0" y="1604.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="1634.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Render UI Components</text>
-  <rect x="240.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="310.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef initStyle fill:#e1f5e1,stroke:#4a9d4a,stroke-width:2px</text>
-  <rect x="1360.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1430.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class StateInit,TransState,BudgetState,UpdateBudgets,Rerender stateStyle</text>
-  <rect x="1600.0" y="2244.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1670.0" y="2266.0" dominant-baseline="middle">Aggregate transaction amounts</tspan>
-    <tspan x="1670.0" y="2282.0" dominant-baseline="middle">by category</tspan>
-  </text>
-  <rect x="1280.0" y="3204.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1350.0" y="3226.0" dominant-baseline="middle">Update budgets state</tspan>
-    <tspan x="1350.0" y="3242.0" dominant-baseline="middle">in App.tsx</tspan>
-  </text>
-  <polygon points="1670.0,3204.0 1740.0,3234.0 1670.0,3264.0 1600.0,3234.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
-  <text x="1670.0" y="3234.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User continues?</text>
   <rect x="2440.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="2510.0" fill="#1a202c" font-size="14" text-anchor="middle">
     <tspan x="2510.0" y="138.0" dominant-baseline="middle">&quot;Transaction {</tspan>
@@ -177,119 +135,65 @@
     <tspan x="2510.0" y="234.0" dominant-baseline="middle">  mcc: string</tspan>
     <tspan x="2510.0" y="250.0" dominant-baseline="middle">}&quot;</tspan>
   </text>
-  <rect x="1440.0" y="1764.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="1794.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">BudgetSettings</text>
-  <polygon points="1510.0,644.0 1580.0,674.0 1510.0,704.0 1440.0,674.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="674.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Initialize State</text>
-  <rect x="1440.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Edit Mode</text>
-  <rect x="1120.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1190.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1190.0" y="3386.0" dominant-baseline="middle">Semantic HTML</tspan>
-    <tspan x="1190.0" y="3402.0" dominant-baseline="middle">table, figure, landmarks</tspan>
-  </text>
-  <polygon points="1590.0,2884.0 1660.0,2914.0 1590.0,2944.0 1520.0,2914.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
-  <text x="1590.0" y="2914.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Validate input?</text>
-  <rect x="1440.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="3066.0" dominant-baseline="middle">Call updateBudget</tspan>
-    <tspan x="1510.0" y="3082.0" dominant-baseline="middle">with new amount</tspan>
-  </text>
-  <rect x="1360.0" y="2884.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1430.0" y="2914.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Restore original value</text>
-  <polygon points="1510.0,2244.0 1580.0,2274.0 1510.0,2304.0 1440.0,2274.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="2274.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User clicks Edit?</text>
-  <rect x="1600.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1670.0" y="2578.0" dominant-baseline="middle">Pie Chart:</tspan>
-    <tspan x="1670.0" y="2594.0" dominant-baseline="middle">Spending Distribution</tspan>
-    <tspan x="1670.0" y="2610.0" dominant-baseline="middle">by Category</tspan>
-  </text>
-  <rect x="720.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="790.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef dataStyle fill:#f0e1ff,stroke:#9d4adb,stroke-width:2px</text>
-  <rect x="1280.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1350.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Idle State</text>
-  <rect x="1440.0" y="3844.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="3866.0" dominant-baseline="middle">Update Bar Chart</tspan>
-    <tspan x="1510.0" y="3882.0" dominant-baseline="middle">with new percentages</tspan>
-  </text>
-  <rect x="1440.0" y="804.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="834.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">transactions: Transaction[]</text>
-  <rect x="2600.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="2670.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="2670.0" y="170.0" dominant-baseline="middle">&quot;Budget {</tspan>
-    <tspan x="2670.0" y="186.0" dominant-baseline="middle">  category: string</tspan>
-    <tspan x="2670.0" y="202.0" dominant-baseline="middle">  budgetAmount: number</tspan>
-    <tspan x="2670.0" y="218.0" dominant-baseline="middle">}&quot;</tspan>
-  </text>
-  <rect x="1440.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="1938.0" dominant-baseline="middle">Props:</tspan>
-    <tspan x="1510.0" y="1954.0" dominant-baseline="middle">• budgets</tspan>
-    <tspan x="1510.0" y="1970.0" dominant-baseline="middle">• updateBudget callback</tspan>
-  </text>
-  <rect x="1280.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1350.0" y="2114.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Render Table Rows</text>
-  <rect x="1600.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1670.0" y="2106.0" dominant-baseline="middle">useMemo: Calculate</tspan>
-    <tspan x="1670.0" y="2122.0" dominant-baseline="middle">spending by category</tspan>
-  </text>
-  <rect x="1440.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="2106.0" dominant-baseline="middle">Render Budget Cards</tspan>
-    <tspan x="1510.0" y="2122.0" dominant-baseline="middle">Grid Layout</tspan>
-  </text>
-  <rect x="1440.0" y="3524.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="3554.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Re-calculate Chart Data</text>
-  <rect x="1600.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1670.0" y="1954.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Props: transactions, budgets</text>
-  <rect x="1440.0" y="3684.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="3706.0" dominant-baseline="middle">useMemo re-runs</tspan>
-    <tspan x="1510.0" y="3722.0" dominant-baseline="middle">with new budgets</tspan>
-  </text>
-  <rect x="1520.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1590.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class Table,Settings,Charts,TableRender,BudgetCards,BarChart,PieChart compStyle</text>
-  <rect x="1440.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="2578.0" dominant-baseline="middle">Bar Chart:</tspan>
-    <tspan x="1510.0" y="2594.0" dominant-baseline="middle">Budget vs Actual</tspan>
-    <tspan x="1510.0" y="2610.0" dominant-baseline="middle">+ Percentage Indicator</tspan>
-  </text>
-  <rect x="560.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="630.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef compStyle fill:#fff4e1,stroke:#d9a84a,stroke-width:2px</text>
-  <rect x="2000.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="2070.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class End endStyle</text>
+  <rect x="1200.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1270.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class Start,LoadJSON,AppInit initStyle</text>
   <rect x="1280.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
     <tspan x="1350.0" y="3386.0" dominant-baseline="middle">ARIA Labels</tspan>
     <tspan x="1350.0" y="3402.0" dominant-baseline="middle">on all interactions</tspan>
   </text>
-  <rect x="1440.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <rect x="1600.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Chart Data Structure</text>
+  <rect x="1440.0" y="3684.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="3386.0" dominant-baseline="middle">Screen Reader Support</tspan>
-    <tspan x="1510.0" y="3402.0" dominant-baseline="middle">hidden data tables</tspan>
+    <tspan x="1510.0" y="3706.0" dominant-baseline="middle">useMemo re-runs</tspan>
+    <tspan x="1510.0" y="3722.0" dominant-baseline="middle">with new budgets</tspan>
   </text>
+  <rect x="1680.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1750.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class ChartData,Aggregate,UseMemo1,NewChartData dataStyle</text>
+  <rect x="2280.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2350.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">direction LR</text>
+  <rect x="240.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="310.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef initStyle fill:#e1f5e1,stroke:#4a9d4a,stroke-width:2px</text>
   <rect x="1600.0" y="1764.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="1670.0" y="1794.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Charts</text>
+  <polygon points="1510.0,2244.0 1580.0,2274.0 1510.0,2304.0 1440.0,2274.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="2274.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User clicks Edit?</text>
+  <rect x="1440.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="3066.0" dominant-baseline="middle">Call updateBudget</tspan>
+    <tspan x="1510.0" y="3082.0" dominant-baseline="middle">with new amount</tspan>
+  </text>
+  <rect x="1280.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="2114.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Render Table Rows</text>
+  <rect x="1520.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1590.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class Table,Settings,Charts,TableRender,BudgetCards,BarChart,PieChart compStyle</text>
+  <rect x="1440.0" y="1284.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="1306.0" dominant-baseline="middle">Initialize budgets</tspan>
+    <tspan x="1510.0" y="1322.0" dominant-baseline="middle">$500 per category</tspan>
+  </text>
+  <rect x="1440.0" y="324.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="346.0" dominant-baseline="middle">Load sampleTransactions.json</tspan>
+    <tspan x="1510.0" y="362.0" dominant-baseline="middle">20 transaction records</tspan>
+  </text>
   <rect x="1440.0" y="1124.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="1510.0" y="1154.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Extract unique categories</text>
-  <rect x="1280.0" y="1764.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1350.0" y="1794.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">TransactionsTable</text>
-  <rect x="1440.0" y="4004.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="4026.0" dominant-baseline="middle">Announce update</tspan>
-    <tspan x="1510.0" y="4042.0" dominant-baseline="middle">via aria-live region</tspan>
-  </text>
-  <rect x="880.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="950.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef a11yStyle fill:#ffe1f0,stroke:#db4a9d,stroke-width:2px</text>
-  <rect x="1600.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1670.0" y="3066.0" dominant-baseline="middle">Return focus</tspan>
-    <tspan x="1670.0" y="3082.0" dominant-baseline="middle">to Edit button</tspan>
-  </text>
+  <rect x="1440.0" y="1444.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="1474.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">budgets: Budget[]</text>
+  <rect x="1440.0" y="3204.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="3234.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Accessibility Features</text>
+  <rect x="400.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="470.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef stateStyle fill:#e1f0ff,stroke:#4a7fbf,stroke-width:2px</text>
+  <rect x="1920.0" y="3364.0" width="140.0" height="60.0" rx="30" ry="30" fill="#c4f1f9" stroke="#2d3748" stroke-width="2" />
+  <text x="1990.0" y="3394.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Session End</text>
+  <rect x="1040.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1110.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef endStyle fill:#ffe1e1,stroke:#db4a4a,stroke-width:2px</text>
+  <rect x="1840.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1910.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class A11y,Feature1,Feature2,Feature3,Feature4,Feature5,AriaLive a11yStyle</text>
+  <rect x="2880.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2950.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">&quot;JSON → useState → Props → useMemo → Charts&quot;</text>
   <rect x="1280.0" y="2244.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
     <tspan x="1350.0" y="2242.0" dominant-baseline="middle">Format:</tspan>
@@ -298,40 +202,136 @@
     <tspan x="1350.0" y="2290.0" dominant-baseline="middle">• Category badges</tspan>
     <tspan x="1350.0" y="2306.0" dominant-baseline="middle">• Hide MCC codes</tspan>
   </text>
-  <rect x="1440.0" y="1284.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1510.0" y="1306.0" dominant-baseline="middle">Initialize budgets</tspan>
-    <tspan x="1510.0" y="1322.0" dominant-baseline="middle">$500 per category</tspan>
+  <rect x="1360.0" y="2884.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1430.0" y="2914.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Restore original value</text>
+  <polygon points="1430.0,2724.0 1500.0,2754.0 1430.0,2784.0 1360.0,2754.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1430.0" y="2754.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User action?</text>
+  <rect x="1600.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="3386.0" dominant-baseline="middle">Keyboard Navigation</tspan>
+    <tspan x="1670.0" y="3402.0" dominant-baseline="middle">full keyboard support</tspan>
   </text>
-  <rect x="1280.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1350.0" y="3074.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Show error message</text>
-  <rect x="1760.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1830.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1830.0" y="3386.0" dominant-baseline="middle">Skip Links</tspan>
-    <tspan x="1830.0" y="3402.0" dominant-baseline="middle">skip to main content</tspan>
+  <rect x="960.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1030.0" y="3394.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Trigger re-render</text>
+  <rect x="1440.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="1938.0" dominant-baseline="middle">Props:</tspan>
+    <tspan x="1510.0" y="1954.0" dominant-baseline="middle">• budgets</tspan>
+    <tspan x="1510.0" y="1970.0" dominant-baseline="middle">• updateBudget callback</tspan>
+  </text>
+  <rect x="1440.0" y="484.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="514.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">App.tsx Initialization</text>
+  <polygon points="1510.0,644.0 1580.0,674.0 1510.0,704.0 1440.0,674.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="674.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Initialize State</text>
+  <rect x="1280.0" y="1764.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="1794.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">TransactionsTable</text>
+  <rect x="1440.0" y="3844.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="3866.0" dominant-baseline="middle">Update Bar Chart</tspan>
+    <tspan x="1510.0" y="3882.0" dominant-baseline="middle">with new percentages</tspan>
+  </text>
+  <rect x="1600.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" y="1954.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Props: transactions, budgets</text>
+  <rect x="1440.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="3386.0" dominant-baseline="middle">Screen Reader Support</tspan>
+    <tspan x="1510.0" y="3402.0" dominant-baseline="middle">hidden data tables</tspan>
   </text>
   <rect x="1520.0" y="2724.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="1590.0" fill="#1a202c" font-size="14" text-anchor="middle">
     <tspan x="1590.0" y="2746.0" dominant-baseline="middle">Custom Tooltips</tspan>
     <tspan x="1590.0" y="2762.0" dominant-baseline="middle">Currency Formatting</tspan>
   </text>
-  <rect x="1440.0" y="484.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="514.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">App.tsx Initialization</text>
-  <rect x="80.0" y="164.0" width="140.0" height="60.0" rx="30" ry="30" fill="#c4f1f9" stroke="#2d3748" stroke-width="2" />
-  <text x="150.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Application Start</text>
-  <rect x="1600.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1670.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Chart Data Structure</text>
-  <rect x="1440.0" y="3204.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1510.0" y="3234.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Accessibility Features</text>
-  <rect x="400.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="470.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef stateStyle fill:#e1f0ff,stroke:#4a7fbf,stroke-width:2px</text>
-  <polygon points="1430.0,2724.0 1500.0,2754.0 1430.0,2784.0 1360.0,2754.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
-  <text x="1430.0" y="2754.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User action?</text>
-  <rect x="960.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1030.0" y="3394.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Trigger re-render</text>
+  <rect x="560.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="630.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef compStyle fill:#fff4e1,stroke:#d9a84a,stroke-width:2px</text>
+  <rect x="720.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="790.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef dataStyle fill:#f0e1ff,stroke:#9d4adb,stroke-width:2px</text>
+  <rect x="2000.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2070.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class End endStyle</text>
+  <rect x="1440.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="2578.0" dominant-baseline="middle">Bar Chart:</tspan>
+    <tspan x="1510.0" y="2594.0" dominant-baseline="middle">Budget vs Actual</tspan>
+    <tspan x="1510.0" y="2610.0" dominant-baseline="middle">+ Percentage Indicator</tspan>
+  </text>
+  <rect x="1440.0" y="4004.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="4026.0" dominant-baseline="middle">Announce update</tspan>
+    <tspan x="1510.0" y="4042.0" dominant-baseline="middle">via aria-live region</tspan>
+  </text>
+  <rect x="1280.0" y="3204.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1350.0" y="3226.0" dominant-baseline="middle">Update budgets state</tspan>
+    <tspan x="1350.0" y="3242.0" dominant-baseline="middle">in App.tsx</tspan>
+  </text>
+  <rect x="2600.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="2670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="2670.0" y="170.0" dominant-baseline="middle">&quot;Budget {</tspan>
+    <tspan x="2670.0" y="186.0" dominant-baseline="middle">  category: string</tspan>
+    <tspan x="2670.0" y="202.0" dominant-baseline="middle">  budgetAmount: number</tspan>
+    <tspan x="2670.0" y="218.0" dominant-baseline="middle">}&quot;</tspan>
+  </text>
+  <rect x="1440.0" y="1604.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="1634.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Render UI Components</text>
+  <rect x="1600.0" y="2244.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="2266.0" dominant-baseline="middle">Aggregate transaction amounts</tspan>
+    <tspan x="1670.0" y="2282.0" dominant-baseline="middle">by category</tspan>
+  </text>
+  <rect x="1280.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="3074.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Show error message</text>
   <rect x="1440.0" y="964.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
   <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
     <tspan x="1510.0" y="986.0" dominant-baseline="middle">Load 20 transactions</tspan>
     <tspan x="1510.0" y="1002.0" dominant-baseline="middle">with categories from MCC</tspan>
+  </text>
+  <rect x="1440.0" y="2404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="2434.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Edit Mode</text>
+  <rect x="1600.0" y="3044.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="3066.0" dominant-baseline="middle">Return focus</tspan>
+    <tspan x="1670.0" y="3082.0" dominant-baseline="middle">to Edit button</tspan>
+  </text>
+  <polygon points="1670.0,3204.0 1740.0,3234.0 1670.0,3264.0 1600.0,3234.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" y="3234.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">User continues?</text>
+  <rect x="1360.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1430.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">class StateInit,TransState,BudgetState,UpdateBudgets,Rerender stateStyle</text>
+  <rect x="3040.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="3110.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">&quot;User Edit → updateBudget → setState → Re-render → Charts&quot;</text>
+  <rect x="1440.0" y="804.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="834.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">transactions: Transaction[]</text>
+  <rect x="880.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="950.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">classDef a11yStyle fill:#ffe1f0,stroke:#db4a9d,stroke-width:2px</text>
+  <rect x="1280.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1350.0" y="2586.0" dominant-baseline="middle">Show input field</tspan>
+    <tspan x="1350.0" y="2602.0" dominant-baseline="middle">with current budget</tspan>
+  </text>
+  <polygon points="1590.0,2884.0 1660.0,2914.0 1590.0,2944.0 1520.0,2914.0" fill="#fbcfe8" stroke="#2d3748" stroke-width="2" />
+  <text x="1590.0" y="2914.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Validate input?</text>
+  <rect x="1440.0" y="1764.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" y="1794.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">BudgetSettings</text>
+  <rect x="1280.0" y="1924.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1350.0" y="1954.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">Props: transactions</text>
+  <rect x="1120.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1190.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1190.0" y="3386.0" dominant-baseline="middle">Semantic HTML</tspan>
+    <tspan x="1190.0" y="3402.0" dominant-baseline="middle">table, figure, landmarks</tspan>
+  </text>
+  <rect x="1440.0" y="2084.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1510.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1510.0" y="2106.0" dominant-baseline="middle">Render Budget Cards</tspan>
+    <tspan x="1510.0" y="2122.0" dominant-baseline="middle">Grid Layout</tspan>
+  </text>
+  <rect x="1600.0" y="2564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1670.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1670.0" y="2578.0" dominant-baseline="middle">Pie Chart:</tspan>
+    <tspan x="1670.0" y="2594.0" dominant-baseline="middle">Spending Distribution</tspan>
+    <tspan x="1670.0" y="2610.0" dominant-baseline="middle">by Category</tspan>
+  </text>
+  <rect x="1760.0" y="3364.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1830.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1830.0" y="3386.0" dominant-baseline="middle">Skip Links</tspan>
+    <tspan x="1830.0" y="3402.0" dominant-baseline="middle">skip to main content</tspan>
   </text>
 </svg>
