@@ -1,8 +1,5 @@
 # Budget Dashboard App
 
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
-<!-- Replace OWNER/REPO above with your GitHub org/repo slug to enable the badge. -->
-
 ## System Overview
 
 ```mermaid
@@ -21,11 +18,34 @@ graph TB
     System -.->|Displays insights<br/>and charts| User
     System -->|Reads transaction data| DataSource
 
-    style User fill:#08427b,stroke:#052e56,color:#fff
-    style System fill:#1168bd,stroke:#0b4884,color:#fff
-    style DataSource fill:#999,stroke:#666,color:#fff
-    style BudgetDashboard fill:#e8f4f8,stroke:#1168bd
-    style SystemContext fill:#f5f5f5,stroke:#999
+%% OXDRAW LAYOUT START
+%% {
+%%   "nodes": {
+%%     "System": {
+%%       "x": 190.0,
+%%       "y": 390.0
+%%     },
+%%     "DataSource": {
+%%       "x": 190.0,
+%%       "y": 550.0
+%%     }
+%%   },
+%%   "edges": {},
+%%   "node_styles": {
+%%     "DataSource": {
+%%       "fill": "#8bfd93"
+%%     },
+%%     "User": {
+%%       "fill": "#8dfd8b"
+%%     },
+%%     "System": {
+%%       "fill": "#8bb7fd"
+%%     }
+%%   },
+%%   "edge_styles": {}
+%% }
+%% OXDRAW LAYOUT END
+
 ```
 
 A React web application for tracking and managing budget expenses based on credit card transactions.
