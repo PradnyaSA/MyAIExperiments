@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="492" height="752" viewBox="0 0 492 752" font-family="Inter, system-ui, sans-serif">
+  <defs>
+        <marker id="arrow-end" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto" markerUnits="strokeWidth">
+            <path d="M1,1 L6,4 L1,7 z" fill="context-stroke" />
+        </marker>
+        <marker id="arrow-start" markerWidth="8" markerHeight="8" refX="2" refY="4" orient="auto" markerUnits="strokeWidth">
+            <path d="M7,1 L2,4 L7,7 z" fill="context-stroke" />
+        </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white" />
+  <g class="subgraph" data-id="SystemContext">
+    <rect x="80.3" y="80.0" width="332.0" height="592.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
+    <text x="100.3" y="100.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">&quot;Budget Dashboard - System Context (C4 Level 1)&quot;</text>
+  </g>
+  <g class="subgraph" data-id="BudgetDashboard">
+    <rect x="128.3" y="320.0" width="236.0" height="192.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
+    <text x="148.3" y="340.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">&quot;Budget Dashboard Application&quot;</text>
+  </g>
+  <polyline points="223.1,224.0 158.3,308.0 158.3,314.0 158.3,320.0 222.5,403.2" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="80.0" y="292.0" width="156.6" height="44.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="158.3" fill="#2d3748" font-size="13" text-anchor="middle">
+      <tspan x="158.3" y="306.0" dominant-baseline="middle">Views transactions</tspan>
+      <tspan x="158.3" y="322.0" dominant-baseline="middle">and manages budgets</tspan>
+    </text>
+  </g>
+  <polyline points="269.5,404.0 334.3,320.0 334.3,314.0 334.3,308.0 270.1,224.8" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" stroke-dasharray="8 6" />
+  <g pointer-events="none">
+    <rect x="263.4" y="292.0" width="141.8" height="44.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="334.3" fill="#2d3748" font-size="13" text-anchor="middle">
+      <tspan x="334.3" y="306.0" dominant-baseline="middle">Displays insights</tspan>
+      <tspan x="334.3" y="322.0" dominant-baseline="middle">and charts</tspan>
+    </text>
+  </g>
+  <line x1="246.3" y1="464.0" x2="246.3" y2="563.0" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <g pointer-events="none">
+    <rect x="156.9" y="489.5" width="178.8" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="246.3" y="503.5" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Reads transaction data</text>
+  </g>
+  <rect x="176.3" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#8dfd8b" stroke="#2d3748" stroke-width="2" />
+  <text x="246.3" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="246.3" y="186.0" dominant-baseline="middle">User</tspan>
+    <tspan x="246.3" y="202.0" dominant-baseline="middle">Personal Finance Manager</tspan>
+  </text>
+  <rect x="176.3" y="564.0" width="140.0" height="60.0" rx="8" ry="8" fill="#8bfd93" stroke="#2d3748" stroke-width="2" />
+  <text x="246.3" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="246.3" y="586.0" dominant-baseline="middle">Transaction Data</tspan>
+    <tspan x="246.3" y="602.0" dominant-baseline="middle">JSON File</tspan>
+  </text>
+  <rect x="176.3" y="404.0" width="140.0" height="60.0" rx="8" ry="8" fill="#8bb7fd" stroke="#2d3748" stroke-width="2" />
+  <text x="246.3" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="246.3" y="426.0" dominant-baseline="middle">React Web Application</tspan>
+    <tspan x="246.3" y="442.0" dominant-baseline="middle">TypeScript + Recharts</tspan>
+  </text>
+</svg>

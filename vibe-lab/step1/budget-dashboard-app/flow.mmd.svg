@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1588" height="784" viewBox="0 0 1588 784" font-family="Inter, system-ui, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1838" height="964" viewBox="0 0 1838 964" font-family="Inter, system-ui, sans-serif">
   <defs>
         <marker id="arrow-end" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto" markerUnits="strokeWidth">
             <path d="M1,1 L6,4 L1,7 z" fill="context-stroke" />
@@ -10,102 +10,102 @@
   </defs>
   <rect width="100%" height="100%" fill="white" />
   <g class="subgraph" data-id="SystemBoundary">
-    <rect x="1272.0" y="80.0" width="236.0" height="192.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
-    <text x="1292.0" y="100.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">&quot; System Context &quot;</text>
+    <rect x="1522.0" y="80.0" width="236.0" height="192.0" rx="16" ry="16" fill="#edf2f7" fill-opacity="0.7" stroke="#a0aec0" stroke-width="1.5" />
+    <text x="1542.0" y="100.0" fill="#2d3748" font-size="14" font-weight="600" text-anchor="start" dominant-baseline="hanging">&quot; System Context &quot;</text>
   </g>
-  <polyline points="600.0,384.0 556.0,428.0 556.0,434.0 556.0,440.0 599.3,483.3" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="1050.0,306.3 958.8,322.4 940.5,339.1 922.3,355.9 888.3,483.0" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
   <g pointer-events="none">
-    <rect x="470.3" y="404.0" width="171.4" height="60.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
-    <text x="556.0" fill="#2d3748" font-size="13" text-anchor="middle">
-      <tspan x="556.0" y="418.0" dominant-baseline="middle">Views spending data,</tspan>
-      <tspan x="556.0" y="434.0" dominant-baseline="middle">sets/updates budgets,</tspan>
-      <tspan x="556.0" y="450.0" dominant-baseline="middle">analyzes charts</tspan>
+    <rect x="854.8" y="309.1" width="171.4" height="60.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="940.5" fill="#2d3748" font-size="13" text-anchor="middle">
+      <tspan x="940.5" y="323.1" dominant-baseline="middle">Views spending data,</tspan>
+      <tspan x="940.5" y="339.1" dominant-baseline="middle">sets/updates budgets,</tspan>
+      <tspan x="940.5" y="355.1" dominant-baseline="middle">analyzes charts</tspan>
     </text>
   </g>
-  <polyline points="660.0,484.0 704.0,440.0 704.0,434.0 704.0,428.0 660.7,384.7" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="950.0,501.7 1041.2,485.6 1059.5,468.9 1077.7,452.1 1111.7,325.0" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
   <g pointer-events="none">
-    <rect x="607.2" y="404.0" width="193.6" height="60.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
-    <text x="704.0" fill="#2d3748" font-size="13" text-anchor="middle">
-      <tspan x="704.0" y="418.0" dominant-baseline="middle">Displays transactions,</tspan>
-      <tspan x="704.0" y="434.0" dominant-baseline="middle">shows budget status,</tspan>
-      <tspan x="704.0" y="450.0" dominant-baseline="middle">provides visual insights</tspan>
+    <rect x="962.7" y="438.9" width="193.6" height="60.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="1059.5" fill="#2d3748" font-size="13" text-anchor="middle">
+      <tspan x="1059.5" y="452.9" dominant-baseline="middle">Displays transactions,</tspan>
+      <tspan x="1059.5" y="468.9" dominant-baseline="middle">shows budget status,</tspan>
+      <tspan x="1059.5" y="484.9" dominant-baseline="middle">provides visual insights</tspan>
     </text>
   </g>
-  <line x1="645.0" y1="544.0" x2="694.6" y2="643.1" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="895.0" y1="544.0" x2="944.6" y2="643.1" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
   <g pointer-events="none">
-    <rect x="598.9" y="561.6" width="141.8" height="44.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
-    <text x="669.8" fill="#2d3748" font-size="13" text-anchor="middle">
-      <tspan x="669.8" y="575.6" dominant-baseline="middle">Reads transaction</tspan>
-      <tspan x="669.8" y="591.6" dominant-baseline="middle">data at startup</tspan>
+    <rect x="848.9" y="561.6" width="141.8" height="44.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="919.8" fill="#2d3748" font-size="13" text-anchor="middle">
+      <tspan x="919.8" y="575.6" dominant-baseline="middle">Reads transaction</tspan>
+      <tspan x="919.8" y="591.6" dominant-baseline="middle">data at startup</tspan>
     </text>
   </g>
-  <line x1="615.0" y1="544.0" x2="565.4" y2="643.1" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <line x1="815.6" y1="544.0" x2="215.3" y2="823.6" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" stroke-dasharray="8 6" />
   <g pointer-events="none">
-    <rect x="541.5" y="569.6" width="97.4" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
-    <text x="590.2" y="583.6" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Runs within</text>
+    <rect x="466.8" y="659.8" width="97.4" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="515.5" y="673.8" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Runs within</text>
   </g>
-  <polyline points="583.3,384.0 511.6,430.0 496.4,490.6 481.3,551.2 532.7,643.1" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
+  <polyline points="1050.0,291.5 1006.9,290.0 605.0,522.0 203.1,754.0 166.4,823.1" fill="none" stroke="#2d3748" stroke-width="2" marker-end="url(#arrow-end)" />
   <g pointer-events="none">
-    <rect x="444.0" y="476.6" width="104.8" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
-    <text x="496.4" y="490.6" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Accesses via</text>
+    <rect x="552.6" y="508.0" width="104.8" height="28.0" rx="6" ry="6" fill="white" fill-opacity="0.96" stroke="#2d3748" stroke-width="1" />
+    <text x="605.0" y="522.0" fill="#2d3748" font-size="13" text-anchor="middle" dominant-baseline="middle" xml:space="preserve">Accesses via</text>
   </g>
-  <rect x="480.0" y="644.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="550.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="550.0" y="634.0" dominant-baseline="middle">&quot;🌐 Web Browser</tspan>
-    <tspan x="550.0" y="650.0" dominant-baseline="middle">[Software System]</tspan>
-    <tspan x="550.0" y="666.0" dominant-baseline="middle"> </tspan>
-    <tspan x="550.0" y="682.0" dominant-baseline="middle">Chrome, Firefox, Safari, or Edge</tspan>
-    <tspan x="550.0" y="698.0" dominant-baseline="middle">that renders the React application</tspan>
-    <tspan x="550.0" y="714.0" dominant-baseline="middle">and provides runtime environment&quot;</tspan>
+  <rect x="80.0" y="824.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="150.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="150.0" y="814.0" dominant-baseline="middle">&quot;🌐 Web Browser</tspan>
+    <tspan x="150.0" y="830.0" dominant-baseline="middle">[Software System]</tspan>
+    <tspan x="150.0" y="846.0" dominant-baseline="middle"> </tspan>
+    <tspan x="150.0" y="862.0" dominant-baseline="middle">Chrome, Firefox, Safari, or Edge</tspan>
+    <tspan x="150.0" y="878.0" dominant-baseline="middle">that renders the React application</tspan>
+    <tspan x="150.0" y="894.0" dominant-baseline="middle">and provides runtime environment&quot;</tspan>
   </text>
-  <rect x="1320.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1390.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="1390.0" y="170.0" dominant-baseline="middle">&quot;ℹ️ Context Level (C4 L1)</tspan>
-    <tspan x="1390.0" y="186.0" dominant-baseline="middle">Shows the Budget Dashboard system</tspan>
-    <tspan x="1390.0" y="202.0" dominant-baseline="middle">in its environment with users</tspan>
-    <tspan x="1390.0" y="218.0" dominant-baseline="middle">and supporting systems&quot;</tspan>
+  <rect x="890.0" y="644.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="960.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="960.0" y="626.0" dominant-baseline="middle">&quot;📄 Transaction Data File</tspan>
+    <tspan x="960.0" y="642.0" dominant-baseline="middle">[Data Store]</tspan>
+    <tspan x="960.0" y="658.0" dominant-baseline="middle"> </tspan>
+    <tspan x="960.0" y="674.0" dominant-baseline="middle">Local JSON file containing</tspan>
+    <tspan x="960.0" y="690.0" dominant-baseline="middle">sample credit card transactions</tspan>
+    <tspan x="960.0" y="706.0" dominant-baseline="middle">with MCC codes, amounts,</tspan>
+    <tspan x="960.0" y="722.0" dominant-baseline="middle">and merchant details&quot;</tspan>
   </text>
-  <rect x="400.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="470.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style Browser fill:#999999,stroke:#6b6b6b,stroke-width:2px,color:#fff</text>
-  <rect x="640.0" y="644.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="710.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="710.0" y="626.0" dominant-baseline="middle">&quot;📄 Transaction Data File</tspan>
-    <tspan x="710.0" y="642.0" dominant-baseline="middle">[Data Store]</tspan>
-    <tspan x="710.0" y="658.0" dominant-baseline="middle"> </tspan>
-    <tspan x="710.0" y="674.0" dominant-baseline="middle">Local JSON file containing</tspan>
-    <tspan x="710.0" y="690.0" dominant-baseline="middle">sample credit card transactions</tspan>
-    <tspan x="710.0" y="706.0" dominant-baseline="middle">with MCC codes, amounts,</tspan>
-    <tspan x="710.0" y="722.0" dominant-baseline="middle">and merchant details&quot;</tspan>
+  <rect x="1570.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1640.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1640.0" y="170.0" dominant-baseline="middle">&quot;ℹ️ Context Level (C4 L1)</tspan>
+    <tspan x="1640.0" y="186.0" dominant-baseline="middle">Shows the Budget Dashboard system</tspan>
+    <tspan x="1640.0" y="202.0" dominant-baseline="middle">in its environment with users</tspan>
+    <tspan x="1640.0" y="218.0" dominant-baseline="middle">and supporting systems&quot;</tspan>
   </text>
-  <rect x="80.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="150.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style User fill:#08427b,stroke:#052e56,stroke-width:2px,color:#fff</text>
-  <rect x="560.0" y="484.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="630.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="630.0" y="458.0" dominant-baseline="middle">&quot;📊 Budget Dashboard Application</tspan>
-    <tspan x="630.0" y="474.0" dominant-baseline="middle">[Software System]</tspan>
-    <tspan x="630.0" y="490.0" dominant-baseline="middle"> </tspan>
-    <tspan x="630.0" y="506.0" dominant-baseline="middle">Web-based personal finance dashboard</tspan>
-    <tspan x="630.0" y="522.0" dominant-baseline="middle">that displays transaction history,</tspan>
-    <tspan x="630.0" y="538.0" dominant-baseline="middle">allows budget configuration per category,</tspan>
-    <tspan x="630.0" y="554.0" dominant-baseline="middle">and provides visual spending analytics</tspan>
-    <tspan x="630.0" y="570.0" dominant-baseline="middle">with charts and comparisons&quot;</tspan>
+  <rect x="1290.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1360.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style Note1 fill:#ffffcc,stroke:#d9d9d9,stroke-width:1px</text>
+  <rect x="810.0" y="484.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="880.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="880.0" y="458.0" dominant-baseline="middle">&quot;📊 Budget Dashboard Application</tspan>
+    <tspan x="880.0" y="474.0" dominant-baseline="middle">[Software System]</tspan>
+    <tspan x="880.0" y="490.0" dominant-baseline="middle"> </tspan>
+    <tspan x="880.0" y="506.0" dominant-baseline="middle">Web-based personal finance dashboard</tspan>
+    <tspan x="880.0" y="522.0" dominant-baseline="middle">that displays transaction history,</tspan>
+    <tspan x="880.0" y="538.0" dominant-baseline="middle">allows budget configuration per category,</tspan>
+    <tspan x="880.0" y="554.0" dominant-baseline="middle">and provides visual spending analytics</tspan>
+    <tspan x="880.0" y="570.0" dominant-baseline="middle">with charts and comparisons&quot;</tspan>
   </text>
-  <rect x="560.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="630.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style DataFile fill:#999999,stroke:#6b6b6b,stroke-width:2px,color:#fff</text>
-  <rect x="880.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="950.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style SystemBoundary fill:#ffffff,stroke:#cccccc,stroke-width:1px,stroke-dasharray: 5 5</text>
-  <rect x="1040.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="1110.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style Note1 fill:#ffffcc,stroke:#d9d9d9,stroke-width:1px</text>
-  <rect x="560.0" y="324.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="630.0" fill="#1a202c" font-size="14" text-anchor="middle">
-    <tspan x="630.0" y="306.0" dominant-baseline="middle">&quot;👤 Personal Finance User</tspan>
-    <tspan x="630.0" y="322.0" dominant-baseline="middle">[Person]</tspan>
-    <tspan x="630.0" y="338.0" dominant-baseline="middle"> </tspan>
-    <tspan x="630.0" y="354.0" dominant-baseline="middle">A person who wants to track their</tspan>
-    <tspan x="630.0" y="370.0" dominant-baseline="middle">credit card expenses, set budgets</tspan>
-    <tspan x="630.0" y="386.0" dominant-baseline="middle">per category, and analyze</tspan>
-    <tspan x="630.0" y="402.0" dominant-baseline="middle">spending patterns&quot;</tspan>
+  <rect x="490.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="560.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style System fill:#1168bd,stroke:#0b4884,stroke-width:3px,color:#fff</text>
+  <rect x="1130.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1200.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style SystemBoundary fill:#ffffff,stroke:#cccccc,stroke-width:1px,stroke-dasharray: 5 5</text>
+  <rect x="1050.0" y="264.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="1120.0" fill="#1a202c" font-size="14" text-anchor="middle">
+    <tspan x="1120.0" y="246.0" dominant-baseline="middle">&quot;👤 Personal Finance User</tspan>
+    <tspan x="1120.0" y="262.0" dominant-baseline="middle">[Person]</tspan>
+    <tspan x="1120.0" y="278.0" dominant-baseline="middle"> </tspan>
+    <tspan x="1120.0" y="294.0" dominant-baseline="middle">A person who wants to track their</tspan>
+    <tspan x="1120.0" y="310.0" dominant-baseline="middle">credit card expenses, set budgets</tspan>
+    <tspan x="1120.0" y="326.0" dominant-baseline="middle">per category, and analyze</tspan>
+    <tspan x="1120.0" y="342.0" dominant-baseline="middle">spending patterns&quot;</tspan>
   </text>
-  <rect x="240.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
-  <text x="310.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style System fill:#1168bd,stroke:#0b4884,stroke-width:3px,color:#fff</text>
+  <rect x="330.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="400.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style User fill:#08427b,stroke:#052e56,stroke-width:2px,color:#fff</text>
+  <rect x="650.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="720.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style Browser fill:#999999,stroke:#6b6b6b,stroke-width:2px,color:#fff</text>
+  <rect x="810.0" y="164.0" width="140.0" height="60.0" rx="8" ry="8" fill="#fde68a" stroke="#2d3748" stroke-width="2" />
+  <text x="880.0" y="194.0" fill="#1a202c" font-size="14" text-anchor="middle" dominant-baseline="middle">style DataFile fill:#999999,stroke:#6b6b6b,stroke-width:2px,color:#fff</text>
 </svg>

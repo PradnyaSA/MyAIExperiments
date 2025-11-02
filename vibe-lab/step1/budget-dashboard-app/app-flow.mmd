@@ -1,0 +1,42 @@
+graph TB
+    subgraph SystemContext["Budget Dashboard - System Context (C4 Level 1)"]
+        User[User<br/>Personal Finance Manager]
+
+        subgraph BudgetDashboard["Budget Dashboard Application"]
+            System[React Web Application<br/>TypeScript + Recharts]
+        end
+
+        DataSource[Transaction Data<br/>JSON File]
+    end
+
+    User -->|Views transactions<br/>and manages budgets| System
+    System -.->|Displays insights<br/>and charts| User
+    System -->|Reads transaction data| DataSource
+
+%% OXDRAW LAYOUT START
+%% {
+%%   "nodes": {
+%%     "System": {
+%%       "x": 190.0,
+%%       "y": 390.0
+%%     },
+%%     "DataSource": {
+%%       "x": 190.0,
+%%       "y": 550.0
+%%     }
+%%   },
+%%   "edges": {},
+%%   "node_styles": {
+%%     "DataSource": {
+%%       "fill": "#8bfd93"
+%%     },
+%%     "User": {
+%%       "fill": "#8dfd8b"
+%%     },
+%%     "System": {
+%%       "fill": "#8bb7fd"
+%%     }
+%%   },
+%%   "edge_styles": {}
+%% }
+%% OXDRAW LAYOUT END
