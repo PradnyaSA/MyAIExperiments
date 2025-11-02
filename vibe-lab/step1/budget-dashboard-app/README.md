@@ -23,28 +23,26 @@ graph TB
 %%   "nodes": {
 %%     "System": {
 %%       "x": 190.0,
-%%       "y": 390.0
+%%       "y": 350.0
 %%     },
 %%     "DataSource": {
 %%       "x": 190.0,
-%%       "y": 550.0
+%%       "y": 530.0
 %%     }
 %%   },
 %%   "edges": {},
 %%   "node_styles": {
-%%     "DataSource": {
-%%       "fill": "#8bfd93"
-%%     },
 %%     "User": {
-%%       "fill": "#8dfd8b"
+%%       "fill": "#6496c8"
 %%     },
 %%     "System": {
-%%       "fill": "#8bb7fd"
+%%       "fill": "#64e68a"
 %%     }
 %%   },
 %%   "edge_styles": {}
 %% }
 %% OXDRAW LAYOUT END
+
 
 ```
 
@@ -166,43 +164,3 @@ The application includes 20 sample transactions derived from the analysis of `us
 ## License
 
 This project is for educational and demonstration purposes.
-
-## System Context Diagram (C4 Level 1)
-
-This C4 Context diagram shows the Budget Dashboard system and how it interacts with users and external systems.
-
-```mermaid
-%% C4 Context Diagram (Level 1)
-%% Shows the Budget Dashboard system and its relationships with users and external systems
-
-graph TB
-    User["👤 Personal Finance User<br/>[Person]<br/><br/>A person who wants to track their<br/>credit card expenses, set budgets<br/>per category, and analyze<br/>spending patterns"]
-
-    System["📊 Budget Dashboard Application<br/>[Software System]<br/><br/>Web-based personal finance dashboard<br/>that displays transaction history,<br/>allows budget configuration per category,<br/>and provides visual spending analytics<br/>with charts and comparisons"]
-
-    Browser["🌐 Web Browser<br/>[Software System]<br/><br/>Chrome, Firefox, Safari, or Edge<br/>that renders the React application<br/>and provides runtime environment"]
-
-    DataFile["📄 Transaction Data File<br/>[Data Store]<br/><br/>Local JSON file containing<br/>sample credit card transactions<br/>with MCC codes, amounts,<br/>and merchant details"]
-
-    %% Relationships
-    User -->|Views spending data,<br/>sets/updates budgets,<br/>analyzes charts| System
-    System -->|Displays transactions,<br/>shows budget status,<br/>provides visual insights| User
-
-    System -->|Reads transaction<br/>data at startup| DataFile
-    System -->|Runs within| Browser
-    User -->|Accesses via| Browser
-
-    %% Styling based on C4 model conventions
-    style User fill:#08427b,stroke:#052e56,stroke-width:2px,color:#fff
-    style System fill:#1168bd,stroke:#0b4884,stroke-width:3px,color:#fff
-    style Browser fill:#999999,stroke:#6b6b6b,stroke-width:2px,color:#fff
-    style DataFile fill:#999999,stroke:#6b6b6b,stroke-width:2px,color:#fff
-
-    %% Notes section
-    subgraph SystemBoundary[" System Context "]
-        Note1["ℹ️ Context Level (C4 L1)<br/>Shows the Budget Dashboard system<br/>in its environment with users<br/>and supporting systems"]
-    end
-
-    style SystemBoundary fill:#ffffff,stroke:#cccccc,stroke-width:1px,stroke-dasharray: 5 5
-    style Note1 fill:#ffffcc,stroke:#d9d9d9,stroke-width:1px
-```
