@@ -21,6 +21,8 @@ Are you ready to start building? Check out the repository and let me know what y
 |Prompt Chaining|[Prompt Chaining Demo](./hands-on-notebooks/PromptChaining.ipynb)|
 |Document Summarization using LangChain|[Document Summarization Demo](./hands-on-notebooks/LangChain_summerization_demo.ipynb)|
 |Agentic AI Demo|[Marketing Insights Generator using Agentic AI](./hands-on-notebooks/agentic_flow_demo.ipynb)|
+|Prompt Engineering - Prompt Hydration | Coming soon...|
+|Prompt Engineering - Prompt Caching | Coming soon...|
 <br>
 
 
